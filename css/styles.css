@@ -28,3 +28,8 @@ body {
     height: 200px;
 }
 
+
+.gallery-image:hover {
+    max-width:376 px;
+    height: 208px;
+}
